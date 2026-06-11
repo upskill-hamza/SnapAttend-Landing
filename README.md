@@ -1,6 +1,6 @@
 # SnapAttend Landing Page
 
-This is the landing page for [**SnapAttend**](https://github.com/upskill-hamza/SnapAttend-Landing) — an AI-powered attendance management system.
+This is the landing page for [**SnapAttend**](https://github.com/upskill-hamza/SnapAttend) — an AI-powered attendance management system.
 
 ## Overview
 
